@@ -12,6 +12,7 @@
   "dependencies": {
     "cors": "^2.8.4",
     "express": "^4.16.2",
+    "node-dht-sensor": "0.0.34",
     "onoff": "^1.2.0"
   }
 }
